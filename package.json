@@ -1,0 +1,10 @@
+{
+  "name": "dio-liver-serverless-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.1483.0",
+    "parse-multipart": "^1.0.4",
+    "uuid": "^9.0.0"
+  }
+}
